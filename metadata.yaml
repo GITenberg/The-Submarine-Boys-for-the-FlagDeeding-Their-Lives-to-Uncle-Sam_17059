@@ -1,0 +1,27 @@
+_repo: The-Submarine-Boys-for-the-FlagDeeding-Their-Lives-to-Uncle-Sam_17059
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Durham, Victor G.
+    gutenberg_agent_id: '7113'
+    url: http://www.gutenberg.org/2009/agents/7113
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+title: 'The Submarine Boys for the Flag
+
+  Deeding Their Lives to Uncle Sam'
+url: http://www.gutenberg.org/ebooks/17059
